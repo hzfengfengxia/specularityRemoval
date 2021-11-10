@@ -1,0 +1,16 @@
+*.pt
+*.ckpt
+*.npy
+*.pkl
+*.PNG
+results
+logs
+__pycache__
+*.png
+*.jpg
+*.ply
+*.log
+*.tar
+*.tar.gz
+*.zip
+*.rar
